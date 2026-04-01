@@ -6,7 +6,7 @@ A production-ready URL shortener built with Spring Boot, Redis, and PostgreSQL. 
 
 ## Live Demo
 
-> Deploy to Railway or Fly.io and paste your link here.
+https://url-shortner-using-spring-boot-production.up.railway.app/
 
 ---
 
